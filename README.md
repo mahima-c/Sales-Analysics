@@ -1,6 +1,6 @@
 # Sales-Analysics
 <h1>This is repo for analysing sales and finding some important answers to question .</h1>
- <br />
+
 Question1:What are the best month for sales?how much earned that month?
  <br />
 Month vs sales:
